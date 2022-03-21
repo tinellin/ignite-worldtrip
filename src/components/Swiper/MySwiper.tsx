@@ -7,10 +7,50 @@ import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/scrollbar';
+import Link from 'next/link';
 
 export function MySwiper() {
+  const continents = [
+    {
+      continent: 'Europa',
+      description: 'O continente mais antigo.',
+      bgImage: 'europe',
+      href: '/continent/europe',
+    },
+    {
+      continent: 'Ásia',
+      description: 'O continente mais populoso.',
+      bgImage: 'asia',
+      href: '/continent/asia',
+    },
+    {
+      continent: 'América do Sul',
+      description: 'Um continente de muitas belezas naturais.',
+      bgImage: 'south_america',
+      href: '/continent/south_america',
+    },
+    {
+      continent: 'América do Norte',
+      description: 'O continente das Big Techs',
+      bgImage: 'north_america',
+      href: '/continent/north_america',
+    },
+    {
+      continent: 'África',
+      description: 'O continente mais diversificado.',
+      bgImage: 'africa',
+      href: '/continent/africa',
+    },
+    {
+      continent: 'Oceania',
+      description: 'O continente dos animais exóticos.',
+      bgImage: 'oceania',
+      href: '/continent/oceania',
+    },
+  ];
+
   return (
-    <Flex margin="auto" h="450px" w="1240px" my="10">
+    <Flex margin="auto" maxW="1240px" h={['260px', '450px']} my="10">
       <Swiper
         modules={[Navigation, Pagination, Scrollbar, A11y]}
         slidesPerView={1}
@@ -19,21 +59,16 @@ export function MySwiper() {
         onSwiper={(swiper) => console.log(swiper)}
         onSlideChange={() => console.log('slide change')}
       >
-        <SwiperSlide>
-          <SwiperItem
-            continent="Europa"
-            description="O continente mais antigo."
-            bgImage="europe"
-          />
-        </SwiperSlide>
-
-        <SwiperSlide>
-          <SwiperItem
-            continent="Ásia"
-            description="O continente mais populoso."
-            bgImage="asia"
-          />
-        </SwiperSlide>
+        {continents.map(({ continent, description, bgImage, href }) => (
+          <SwiperSlide>
+            <SwiperItem
+              continent={continent}
+              description={description}
+              bgImage={bgImage}
+              href={href}
+            />
+          </SwiperSlide>
+        ))}
       </Swiper>
     </Flex>
   );

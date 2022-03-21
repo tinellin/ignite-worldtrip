@@ -1,0 +1,248 @@
+{
+  "europe": {
+    "name": "Europa",
+    "excerpt": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+    "numOfCountries": 50,
+    "numOfLanguages": 60,
+    "numOfCities": 27,
+    "bgImg": "europe.png",
+    "toolTipInfos": "Berlim, Viena, Andorra-a-Velha, Bruxelas, Copenhague, Madri, Helsinque, Paris, Atenas, Dublin, Reykjavik, Lisboa, San Marino.",
+    "someCities": [
+      {
+        "city": "Londres",
+        "country": "Reino Unido",
+        "flag": "gb",
+        "img": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      },
+      {
+        "city": "Paris",
+        "country": "França",
+        "flag": "fr",
+        "img": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80"
+      },
+      {
+        "city": "Roma",
+        "country": "Itália",
+        "flag": "it",
+        "img": "https://images.unsplash.com/photo-1531572753322-ad063cecc140?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80"
+      },
+      {
+        "city": "Praga",
+        "country": "Republica Tcheca",
+        "flag": "cz",
+        "img": "https://images.unsplash.com/photo-1519677100203-a0e668c92439?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      },
+      {
+        "city": "Zurique",
+        "country": "Suiça",
+        "flag": "ch",
+        "img": "https://images.unsplash.com/photo-1620563092215-0fbc6b55cfc5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80"
+      }
+    ]
+  },
+  "asia": {
+    "name": "Ásia",
+    "excerpt": "A Ásia é o maior continente em área terrestre do mundo, estando boa parte do continente localizado no Hemisfério Norte. Além de ser o mais extenso, é também o mais populoso, habitando nele cerca de três quintos da população mundial. A Ásia é multicultural, abrigando diversas culturas, etnias, religiões e tradições.",
+    "numOfCountries": 49,
+    "numOfLanguages": 2.301,
+    "numOfCities": 45,
+    "bgImg": "asia.png",
+    "toolTipInfos": "Xangai, Muambai, Karachi, Istambul, Hong Kong, Daca, Teerão, Carachi, Dubai, Bagdá, Bangalore, Yokohama.",
+    "someCities": [
+      {
+        "city": "Pequim",
+        "country": "China",
+        "flag": "cn",
+        "img": "https://images.unsplash.com/photo-1620964780032-81ef649db4d9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      },
+      {
+        "city": "Seul",
+        "country": "Coreia do Sul",
+        "flag": "kr",
+        "img": "https://images.unsplash.com/photo-1597552571860-136a103d5eb3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      },
+      {
+        "city": "Agra",
+        "country": "Índia",
+        "flag": "in",
+        "img": "https://images.unsplash.com/photo-1564507592333-c60657eea523?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80"
+      },
+      {
+        "city": "Jacarta",
+        "country": "Indonésia",
+        "flag": "id",
+        "img": "https://images.unsplash.com/photo-1538582709238-0a503bd5ae04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      },
+      {
+        "city": "Bangkok",
+        "country": "Tailândia",
+        "flag": "th",
+        "img": "https://images.unsplash.com/photo-1575348021159-aa1d0d95eac5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80"
+      }
+    ]
+  },
+  "south_america": {
+    "name": "América do Sul",
+    "excerpt": "A América do Sul é um subcontinente pertencente à América. A maior parte do seu território se encontra no hemisfério sul, além de estar na porção oeste do planeta. É banhada pelos oceanos Pacífico, a oeste, e Atlântico, a leste. Possui 12 países e um território ultramarino, a Guiana Francesa.",
+    "numOfCountries": 13,
+    "numOfLanguages": 456,
+    "numOfCities": 42,
+    "bgImg": "south_america.png",
+    "toolTipInfos": "Montevidéu, Quito, Caracas, São Paulo, Assunção, Brasília, Sucre, La Paz, Santa Marta, Florianópolis, Curitiba, Caiena, Córdova, Pucón, Goiânia.",
+    "someCities": [
+      {
+        "city": "Rio de Janeiro",
+        "country": "Brasil",
+        "flag": "br",
+        "img": "https://images.unsplash.com/photo-1516306580123-e6e52b1b7b5f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1526&q=80"
+      },
+      {
+        "city": "Colômbia",
+        "country": "Bogotá",
+        "flag": "co",
+        "img": "https://images.unsplash.com/photo-1568632234157-ce7aecd03d0d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      },
+      {
+        "city": "Chile",
+        "country": "Santiago",
+        "flag": "cl",
+        "img": "https://images.unsplash.com/photo-1593985437133-03d5e1435c03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1633&q=80"
+      },
+      {
+        "city": "Lima",
+        "country": "Peru",
+        "flag": "pe",
+        "img": "https://images.unsplash.com/photo-1580530719837-952e0515b69a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      },
+      {
+        "city": "Argentina",
+        "country": "Buenos Aires",
+        "flag": "ar",
+        "img": "https://images.unsplash.com/photo-1589999904249-152205243238?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+      }
+    ]
+  },
+  "north_america": {
+    "name": "América do Norte",
+    "excerpt": "A América do Norte é um subcontinente do continente americano, também formado pela América Central e América do Sul. A região limita-se ao leste com o oceano Atlântico, a oeste com o oceano Pacífico, ao norte com o oceano Ártico e ao sul com a América Central e o Caribe.",
+    "numOfCountries": 3,
+    "numOfLanguages": 256,
+    "numOfCities": 52,
+    "bgImg": "north_america.png",
+    "toolTipInfos": "Cidade do México, Guadalajara, San Diego, Ottawa, Montreal, Filadélfia, Puebla, Detroit, Houston, León, San Antonio, Havana, Santo Domingo, São Francisco, Orlando.",
+    "someCities": [
+      {
+        "city": "Las Vegas",
+        "country": "Estados Unidos",
+        "flag": "us",
+        "img": "https://images.unsplash.com/photo-1605833556294-ea5c7a74f57d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80"
+      },
+      {
+        "city": "Toronto",
+        "country": "Canadá",
+        "flag": "ca",
+        "img": "https://images.unsplash.com/photo-1507992781348-310259076fe0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      },
+      {
+        "city": "Cancún",
+        "country": "México",
+        "flag": "mx",
+        "img": "https://images.unsplash.com/photo-1612454882322-2cc894734fd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80"
+      },
+      {
+        "city": "Nova Iorque",
+        "country": "Estados Unidos",
+        "flag": "us",
+        "img": "https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80"
+      },
+      {
+        "city": "Vancouver",
+        "country": "Canadá",
+        "flag": "ca",
+        "img": "https://images.unsplash.com/photo-1559511260-66a654ae982a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1518&q=80"
+      }
+    ]
+  },
+  "africa": {
+    "name": "África",
+    "excerpt": "O continente africano é o terceiro maior do mundo. É banhado a leste pelo Oceano Atlântico e a Oeste pelo Oceano Índico. Ao norte, é separado do continente europeu pelo Mar Mediterrâneo; e a nordeste, é separado da Ásia pelo Mar Vermelho e pelo Canal do Suez, localizado no Egito.",
+    "numOfCountries": 54,
+    "numOfLanguages": 2000,
+    "numOfCities": 82,
+    "bgImg": "africa.png",
+    "toolTipInfos": "Durban, Porto Elizabeth, Luanda, Lagos, Abidjã, Cairo, Alexandria, Addis Ababa, Dacar, Fez, Cartum, Casablanca, Kampala, Trípoli, Freetown, Bloemfontein.",
+    "someCities": [
+      {
+        "city": "Cidade do Cabo",
+        "country": "África do Sul",
+        "flag": "za",
+        "img": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80"
+      },
+      {
+        "city": "Cairo",
+        "country": "Egito",
+        "flag": "eg",
+        "img": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      },
+      {
+        "city": "Nairóbi",
+        "country": "Quênia",
+        "flag": "ci",
+        "img": "https://images.unsplash.com/photo-1596005554384-d293674c91d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1498&q=80"
+      },
+      {
+        "city": "Lagos",
+        "country": "Nigéria",
+        "flag": "ng",
+        "img": "https://images.unsplash.com/photo-1618828665011-0abd973f7bb8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80"
+      },
+      {
+        "city": "Windhoek",
+        "country": "Namíbia",
+        "flag": "na",
+        "img": "https://images.unsplash.com/photo-1586100810957-e4a1fed8c645?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80"
+      }
+    ]
+  },
+  "oceania": {
+    "name": "Oceania",
+    "excerpt": "A Oceania é um continente localizado a sudeste da Ásia, compreendendo um conjunto de ilhas somado à Austrália, essa última considerada como uma massa continental chamada de “Australásia”. Possui uma área total de 8.480.355 km², onde habitam aproximadamente 38 milhões de pessoas.",
+    "numOfCountries": 14,
+    "numOfLanguages": 800,
+    "numOfCities": 41,
+    "bgImg": "oceania.png",
+    "toolTipInfos": "Melbourne, Auckland, Gold Coast, Apia, Christchurch, Honiara, Manukau, Ngerulmud, Hagåtña, Mata-Utu, Wollongong, Geelong.",
+    "someCities": [
+      {
+        "city": "Sydney",
+        "country": "Austrália",
+        "flag": "au",
+        "img": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      },
+      {
+        "city": "Wellington",
+        "country": "Nova Zelândia",
+        "flag": "nz",
+        "img": "https://images.unsplash.com/photo-1589871973318-9ca1258faa5d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+      },
+      {
+        "city": "Honolulu",
+        "country": "Havaí",
+        "flag": "us-hi",
+        "img": "https://images.unsplash.com/photo-1573992554018-83e7853bd45f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1112&q=80"
+      },
+      {
+        "city": "Bora Bora",
+        "country": "Polinésia Francesa",
+        "flag": "pf",
+        "img": "https://images.unsplash.com/photo-1589806036187-fcbc6a7a23b6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1596&q=80"
+      },
+      {
+        "city": "Camberra",
+        "country": "Austrália",
+        "flag": "au",
+        "img": "https://images.unsplash.com/photo-1510546020578-a35ae9fcfb0f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1504&q=80"
+      }
+    ]
+  }
+}

@@ -1,7 +1,23 @@
+.swiper-pagination-bullet {
+  width: 12px !important;
+  height: 12px !important;
+  background-color: #dadada !important;
+}
+
+.swiper-pagination-bullet-active {
+  width: 12px !important;
+  height: 12px !important;
+  background-color: #ffba08 !important;
+}
+
 .swiper-button-prev {
-  color: '#FFBA08' !important;
+  width: 20px !important;
+  height: 50px !important;
+  color: #ffba08 !important;
 }
 
 .swiper-button-next {
-  color: '#FFBA08' !important;
+  width: 20px !important;
+  height: 50px !important;
+  color: #ffba08 !important;
 }
